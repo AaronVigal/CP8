@@ -226,3 +226,4 @@ library/util_axis_xfifo/vivado.jou
 library/util_axis_xfifo/vivado.log
 projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.gen/sources_1/bd/system/system.bda
 .gitignote
+projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t
