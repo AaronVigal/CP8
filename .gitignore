@@ -214,3 +214,15 @@ projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.srcs/sources_1/bd/system/
 projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.srcs/sources_1/bd/system/system.bda
 projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.runs/
 projects/uart_puf/nexys-a7-100t/.Xil/
+library/util_axis_xfifo/component.xml
+library/util_axis_xfifo/util_axis_xfifo.xpr
+library/util_axis_xfifo/util_axis_xfifo_ip.log
+library/util_axis_xfifo/vivado.jou
+library/util_axis_xfifo/vivado.log
+library/util_axis_xfifo/component.xml
+library/util_axis_xfifo/util_axis_xfifo.xpr
+library/util_axis_xfifo/util_axis_xfifo_ip.log
+library/util_axis_xfifo/vivado.jou
+library/util_axis_xfifo/vivado.log
+projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.gen/sources_1/bd/system/system.bda
+.gitignote
