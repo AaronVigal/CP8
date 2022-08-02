@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="synth_1" LaunchDir="/home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/CP8/projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

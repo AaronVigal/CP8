@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Aug  1 13:31:21 2022
+# Process ID: 65809
+# Current directory: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/library/util_axis_puf_string_decoder
+# Command line: vivado -mode batch -source util_axis_puf_string_decoder_ip.tcl
+# Log file: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/library/util_axis_puf_string_decoder/vivado.log
+# Journal file: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/library/util_axis_puf_string_decoder/vivado.jou
+#-----------------------------------------------------------
+source util_axis_puf_string_decoder_ip.tcl

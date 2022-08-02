@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Aug  1 13:33:15 2022
+# Process ID: 66389
+# Current directory: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/library/interfaces
+# Command line: vivado -mode batch -source interfaces_ip.tcl
+# Log file: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/library/interfaces/vivado.log
+# Journal file: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/library/interfaces/vivado.jou
+#-----------------------------------------------------------
+source interfaces_ip.tcl

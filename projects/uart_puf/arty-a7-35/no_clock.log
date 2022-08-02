@@ -1,0 +1,33 @@
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
+| Date         : Mon Aug  1 13:46:14 2022
+| Host         : aceadmin-Latitude-5590 running 64-bit Ubuntu 22.04 LTS
+| Command      : check_timing -override_defaults no_clock -verbose -file no_clock.log
+| Design       : system_top
+| Device       : 7a35ti-csg324
+| Speed File   : -1L  PRODUCTION 1.23 2018-06-13
+--------------------------------------------------------------------------------------
+
+
+check_timing report
+
+Table of Contents
+-----------------
+1. checking no_clock (3)
+
+1. checking no_clock (3)
+------------------------
+ There is 1 register/latch pin with no clock driven by root clock pin: i_system_wrapper/system_i/util_uart_puf/inst/puf/state_mac/FSM_sequential_current_state_reg[0]/Q (HIGH)
+
+i_system_wrapper/system_i/util_uart_puf/inst/puf/state_mac/valid_reg/G
+
+ There is 1 register/latch pin with no clock driven by root clock pin: i_system_wrapper/system_i/util_uart_puf/inst/puf/state_mac/FSM_sequential_current_state_reg[1]/Q (HIGH)
+
+i_system_wrapper/system_i/util_uart_puf/inst/puf/state_mac/valid_reg/G
+
+ There is 1 register/latch pin with no clock driven by root clock pin: i_system_wrapper/system_i/util_uart_puf/inst/puf_ctrl/r_puf_w_reg/Q (HIGH)
+
+i_system_wrapper/system_i/util_uart_puf/inst/puf/state_mac/valid_reg/G
+
+

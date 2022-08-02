@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:47 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Aug  2 09:36:48 2022
+# Process ID: 172938
+# Current directory: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL
+# Command line: wbtcv -mode batch -source /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.hw/webtalk/labtool_webtalk.tcl -notrace
+# Log file: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/webtalk.log
+# Journal file: /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/webtalk.jou
+#-----------------------------------------------------------
+source /home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.hw/webtalk/labtool_webtalk.tcl -notrace
+INFO: [Common 17-186] '/home/ace-intern/Desktop/CPs/CP8/challenge/lecture-week-9-hardware-security-intern/Challenge/PUF_HDL/projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.hw/webtalk/usage_statistics_ext_labtool.xml' has been successfully sent to Xilinx on Tue Aug  2 09:36:51 2022. For additional details about this file, please refer to the WebTalk help file at /tools/Xilinx/Vivado/2020.2/doc/webtalk_introduction.html.
+INFO: [Common 17-206] Exiting Webtalk at Tue Aug  2 09:36:51 2022...
