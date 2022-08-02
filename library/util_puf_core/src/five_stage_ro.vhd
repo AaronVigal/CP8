@@ -25,7 +25,7 @@ begin
   process (E)
   begin
 
--- Build RO here and connect the output to Os  (test)
+-- Build RO here and connect the output to Os 
     r_ring_oscillator(0) <= not ( E and not r_ring_oscillator(3) );
     r_ring_oscillator(1) <= not r_ring_oscillator(0);
     r_ring_oscillator(2) <= not r_ring_oscillator(1);
