@@ -213,3 +213,4 @@ projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.srcs/sources_1/bd/system/
 projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.srcs/sources_1/bd/system/system.bd
 projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.srcs/sources_1/bd/system/system.bda
 projects/uart_puf/nexys-a7-100t/uart_puf_nexys-a7-100t.runs/
+projects/uart_puf/nexys-a7-100t/.Xil/
